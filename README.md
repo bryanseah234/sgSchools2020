@@ -1,5 +1,5 @@
 # Singapore Schools
-<p align="left">
+<p align="centre">
   <img src="https://www.moe.gov.sg/html/MOE/images/common/moe-ministry-of-education-singapore.png" />
 </p>
 
