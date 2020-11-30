@@ -1,5 +1,5 @@
 # Singapore Schools
-code to place postal code of Singapore Schools on a map / list them out.
+code to place Singapore Schools on a map / list them out.
 
 <p align="centre">
   <img src="https://www.moe.gov.sg/html/MOE/images/common/moe-ministry-of-education-singapore.png" />
